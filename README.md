@@ -1,9 +1,12 @@
-#MKUltraviolence core
+# MKUltraviolence core
 
 core is the spiritual successor to [hellmoos](https://github.com/necanthrope/HellCore) fork of [lambdamoo](https://github.com/wrog/lambdamoo).
 
 MKUltraviolence seeks to port the ideas behind lambdamoo trough it's [documentation](https://lambda.moo.mud.org/pub/MOO/ProgrammersManual.html) and [in-field use](https://wiki.ipiss.rocks) into a timely fashion. 
 
+--------------------------------------
+MKUltraviolence_core is in Pre-alpha
+--------------------------------------
 MTH (Mud Telopt Handler) is a telnet handler which supports the
 following TELNET options.
 
